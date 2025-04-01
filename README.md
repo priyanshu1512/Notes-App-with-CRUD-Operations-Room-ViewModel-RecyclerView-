@@ -21,4 +21,6 @@ This is a simple yet powerful **Notes App** built using **Kotlin**, implementing
 - **RecyclerView**: Displays the list of notes efficiently.
 
 ## Screenshots
-![Screenshot](AS1.png)
+![Screenshot](ss1.png)
+![Screenshot](ss2.png)
+![Screenshot](ss3.png)
